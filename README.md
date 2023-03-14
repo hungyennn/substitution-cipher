@@ -1,5 +1,5 @@
 # substitution-cipher
-
+Substitution cipher is a method of cryptography. </br>
 This program encrypt a message by replacing every letter with another letter. (HW from online course CS50) </br>
 To decrypt the message, the receiver of the message would need to know the key (a mapping of every alphabet). </br>
 Reverse process: translate ciphertext (the encrypt text) into plaintext (original one). </br>
