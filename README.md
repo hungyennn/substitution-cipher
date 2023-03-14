@@ -6,3 +6,4 @@ Reverse process: translate ciphertext (the encrypt text) into plaintext (origina
 </br>
 For example, a key might be the string "POMAFTRHLZGECYJIUWSKDVBNQX"</br>
 This 26-character key means that A (the first letter of the alphabet) should be converted into P (the first character of the key), Z should be converted into X (the last character of the key), and so forth.</br>
+A message like **HELLO**, then, would be encrypted as **HFEEJ**.
